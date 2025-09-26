@@ -1,0 +1,23 @@
+Additional Data to Request
+High Priority:
+
+Time spent on listing pages - shows engagement quality
+Mobile vs desktop conversion rates - mobile likely needs work
+Individual listing performance - which units convert best/worst
+Form abandonment data - where people quit during booking
+
+Medium Priority:
+
+Photo engagement - which photos get viewed/clicked
+Pricing vs competitors - are we priced right
+Host response times - does speed affect conversions
+User demographics - who converts vs who doesn't
+
+Nice to Have:
+
+Seasonal patterns - when do people book storage
+Return user behavior - do people come back before booking
+Customer service usage - do people need help to convert
+Site speed metrics - slow pages kill conversions
+
+Goal: Move from knowing "what" is happening (11.7% conversion) to understanding "why" it's happening so you can fix it.
